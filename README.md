@@ -5,7 +5,7 @@
 
 简单几步操作，你就可以拥有一个既能提升工作效率，又能让日常生活更加便捷的 AI 小伙伴。GPTs 的出现，让个性化 AI 应用不再是高不可攀的技术，而是变得触手可及。最重要的是什么，你完全不需要任何复杂的技术知识。
 
-不过，要想使用这个功能，你需要订阅 ChatGPT Plus。如果还没有，赶快去升级吧。详细订阅教程请看：[国内怎么订阅ChatGPT Plus？](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+不过，要想使用这个功能，你需要订阅 ChatGPT Plus。如果还没有，赶快去升级吧。详细订阅教程请看：[国内怎么订阅ChatGPT Plus？](https://bit.ly/bewildcard)
 
 ## 创建自定义 GPTs
 
@@ -63,6 +63,6 @@
 对结果满意后，选择右上角的绿色 “Save “按钮。
 
 ## 总结
-需要再次提醒的是，要想使用 GPTs，必须要订阅 ChatGPT Plus。如果还没有，赶快去升级吧。详细订阅教程请看：[国内怎么订阅ChatGPT Plus？](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+需要再次提醒的是，要想使用 GPTs，必须要订阅 ChatGPT Plus。如果还没有，赶快去升级吧。详细订阅教程请看：[国内怎么订阅ChatGPT Plus？](https://bit.ly/bewildcard)
 
 开通了之后，整个应用商店里面还有上万个 GPTs 等你使用哦，快来试试吧！
