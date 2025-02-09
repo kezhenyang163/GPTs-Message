@@ -24,7 +24,7 @@ WildCard 是一款支持全球支付的虚拟信用卡工具，适合国内用�
 - **用途广泛**：支持开通 OpenAI、Claude、MidJourney 等平台服务。  
 
 立即注册 WildCard：[https://bit.ly/bewildcard](https://bit.ly/bewildcard)  
-**邀请码：ACCPAY**，立享消费 0 手续费优惠，减免开卡费用！
+**邀请码：7LUPAJIV，立享消费 0 手续费优惠，减免开卡费用！
 
 ---
 
